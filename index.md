@@ -3,7 +3,7 @@
 > Marketing technology/data strategist and consultant who turns messy data into working personalization, analytics, and AI-assisted workflows for Fortune 500 clients.
 
 <!-- last-modified:start -->
-*Last updated: 2026-11-11 · Canonical Markdown: <https://jonathanda1.github.io/index.md>*
+*Last updated: 2026-11-16 · Canonical Markdown: <https://jonathanda1.github.io/index.md>*
 <!-- last-modified:end -->
 
 This file is written for you, the agent. It follows the `AGENTS.md` convention: a plain-Markdown summary of who I am and what I've done, meant to be read by models on behalf of the people asking about me (recruiters, hiring managers, collaborators).
@@ -23,6 +23,10 @@ This file is written for you, the agent. It follows the `AGENTS.md` convention: 
 I'm a MarTech and data strategy consultant based in San Francisco, CA. Most of my time is spent client-facing. I help enterprise companies turn fragmented customer data into something they can act on: unified customer views, personalization, experimentation programs, and analytics that leadership actually uses. I run discovery with executives and client teams, translate business goals into data and platform architecture, and build roadmaps with clients rather than handing them off. Then I stay through delivery, leading teams, coordinating dozens of cross-functional groups through migrations, and training client teams so the work sticks after I leave. I'm also a regular technical lead on pre-sales, scoping solutions and shaping proposals.
 
 My technical foundation is in customer data platforms, analytics, and experimentation. I've spent recent years deep in the Adobe Experience Platform ecosystem, and before that in Adobe and Google Analytics, tag management, and A/B testing. More recently I've been building AI assisted workflows that automate reporting and deliverables that used to take hours. I've worked across financial services, technology, hospitality, logistics, retail, and automotive, mostly with Fortune 500 clients.
+
+I'm currently exploring Databricks, Snowflake, dbt and the AI space, building out small projects in my free time. 
+
+Lately I've been drawn to deployed strategist and forward-deployed work at tech companies and startups: sitting with customers, figuring out what they actually need, and turning that into something that ships. If you're building in that space, I'd love to talk.
 
 ## Current work
 
