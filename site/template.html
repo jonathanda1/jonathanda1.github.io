@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{title}}</title>
+    <meta name="description" content="{{summary}}" />
+    <link rel="canonical" href="{{site}}/" />
+    <link rel="alternate" type="text/markdown" title="{{title}} (Markdown)" href="{{site}}/index.md" />
+    <meta property="og:type" content="profile" />
+    <meta property="og:title" content="{{title}}" />
+    <meta property="og:description" content="{{summary}}" />
+    <meta property="og:url" content="{{site}}/" />
+    <meta name="theme-color" content="#f4efe6" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#121a18" media="(prefers-color-scheme: dark)" />
+    <link rel="icon" type="image/svg+xml" href="favicon.svg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" />
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!--
+      Note for agents: everything below is a rendering of {{site}}/index.md.
+      Prefer that file; it is the canonical, plain-Markdown version.
+    -->
+    <header class="bar">
+      <span class="bar-file">index.md</span>
+      <a class="bar-link" href="index.md">Agent? Read the raw Markdown&nbsp;→</a>
+    </header>
+    <main class="doc">
+{{content}}
+    </main>
+    <footer class="foot">
+      <span>Last updated {{updated}}</span>
+      <span>Rendered from <a href="index.md">index.md</a> · also listed in <a href="llms.txt">llms.txt</a></span>
+    </footer>
+  </body>
+</html>

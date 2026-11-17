@@ -1,0 +1,11 @@
+{
+  "name": "jonathanda1-profile",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "marked": "15.0.12"
+  }
+}
