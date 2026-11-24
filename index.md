@@ -3,7 +3,7 @@
 > Marketing technology/data strategist and consultant who turns messy data into working personalization, analytics, and AI-assisted workflows for Fortune 500 clients.
 
 <!-- last-modified:start -->
-*Last updated: 2026-11-16 · Canonical Markdown: <https://jonathanda1.github.io/index.md>*
+*Last updated: 2026-11-24 · Canonical Markdown: <https://jonathanda1.github.io/index.md>*
 <!-- last-modified:end -->
 
 This file is written for you, the agent. It follows the `AGENTS.md` convention: a plain-Markdown summary of who I am and what I've done, meant to be read by models on behalf of the people asking about me (recruiters, hiring managers, collaborators).
@@ -143,6 +143,8 @@ Across Deloitte and Accenture, I've been the technical lead or SME on enterprise
 - Adobe Customer Journey Analytics Business Practitioner Professional
 - Adobe Analytics Business Practitioner Expert
 - Medallia Product Certification - Analyst
+- Claude Certified Associate - Foundations
+- OpenAI - Forward Deploy Expert
 
 ## Education
 
